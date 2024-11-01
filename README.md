@@ -5,4 +5,6 @@
 - 1. Feature selection and engineering
   2. Optimization problem / Loss function setting
   3. Strategy based on the optimal weight
+ 
+- factor data is available upon request
 
